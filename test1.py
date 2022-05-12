@@ -30,3 +30,4 @@ print("it works!")
 
 
 print("git pull")
+ print('git fetch')
